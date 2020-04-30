@@ -14,7 +14,7 @@
   "dependencies": {
     "bootstrap": "^4.4.1",
     "fibers": "^4.0.2",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "mint-ui": "^2.2.13",
     "node-sass": "^4.13.0",
     "node-sass.js": "^0.7.1",
